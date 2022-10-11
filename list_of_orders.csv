@@ -1,4 +1,4 @@
-﻿Order_ID,Order Date,Customer Name,City,CountryCode,Region,Segment,Ship Date,Order Shipment TimeFrame,Ship Mode,State
+﻿Order ID,Order Date,Customer Name,City,CountryCode,Region,Segment,Ship Date,Order Shipment TimeFrame,Ship Mode,State
 AZ-2011-4827146,11/01/2011,Faith Greenwood,Vienna,AT,Central,Consumer,15/01/2011,4,Economy,Vienna
 AZ-2011-5960662,14/01/2011,Ella Troy,Vienna,AT,Central,Home Office,19/01/2011,5,Economy,Vienna
 AZ-2011-6172786,05/05/2011,Louis Scott,Vienna,AT,Central,Corporate,10/05/2011,5,Economy,Vienna
